@@ -1,0 +1,72 @@
+S. No,PlanPlatform,TypeofPlan,PlanEffDate,PlanTermDate,Benefits,City,State,Members,Claims
+1,Traditional,PPO,1/1/2017,12/31/9999,Pharmacy,Avon,CT,83,70
+2,Traditional,PPO,6/15/2017,5/31/2019,Dental,XX,Ohio,150,45
+3,Traditional,PPO,5/31/2019,12/31/9999,Pharmacy,AA,Ohio,65,42
+4,Traditional,PPO,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+5,Traditional,PPO,7/1/2019,12/31/9999,Dental,AA,Ohio,32,16
+6,Traditional,PPO,6/15/2017,5/31/2019,Dental,XX,Ohio,150,45
+7,Traditional,PPO,5/31/2019,12/31/9999,Pharmacy,AA,Ohio,65,42
+8,Traditional,PPO,6/15/2017,5/31/2019,Dental,XX,Ohio,150,45
+9,Traditional,PPO,5/31/2019,12/31/9999,Pharmacy,AA,Ohio,65,42
+10,Traditional,PPO,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+11,Traditional,PPO,7/1/2019,12/31/9999,Dental,AA,Ohio,32,16
+12,Traditional,PPO,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+13,Traditional,PPO,7/1/2019,6/30/2019,clinical,YY,PA,47,31
+14,Traditional,HNO,5/31/2019,12/31/9999,Pharmacy,AA,Ohio,65,42
+15,Traditional,HNO,5/31/2019,5/31/2019,clinical,YY,PA,12,8
+16,Traditional,HNO,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+17,Traditional,HNO,7/1/2019,12/31/9999,Dental,AA,Ohio,32,16
+18,Traditional,HNO,1/1/2017,12/31/9999,Pharmacy,Avon,CT,83,70
+19,Traditional,HNO,5/31/2019,12/31/9999,Pharmacy,AA,Ohio,65,42
+20,Traditional,HNO,5/31/2019,5/31/2019,clinical,YY,PA,12,8
+21,Traditional,HNO,5/31/2019,5/31/2019,clinical,YY,PA,12,8
+22,Traditional,HNO,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+23,Traditional,HNO,7/1/2019,12/31/9999,Dental,AA,Ohio,32,16
+24,Traditional,HNO,1/1/2017,12/31/9999,Pharmacy,Avon,CT,83,70
+25,Traditional,HNO,5/31/2019,12/31/9999,Pharmacy,AA,Ohio,65,42
+26,Traditional,HNO,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+27,Traditional,HNO,7/1/2019,12/31/9999,Dental,AA,Ohio,32,16
+28,Traditional,POS,1/1/2017,12/31/9999,Pharmacy,Avon,CT,83,70
+29,Traditional,POS,5/31/2019,5/31/2019,clinical,YY,PA,12,8
+30,Traditional,POS,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+31,Traditional,POS,7/1/2019,12/31/9999,Dental,AA,Ohio,32,16
+32,Traditional,POS,5/31/2019,5/31/2019,clinical,YY,PA,12,8
+33,Traditional,POS,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+34,Traditional,POS,7/1/2019,12/31/9999,Dental,AA,Ohio,32,16
+35,Traditional,POS,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+36,Traditional,POS,7/1/2019,12/31/9999,Dental,AA,Ohio,32,16
+37,Traditional,POS,5/31/2019,5/31/2019,clinical,YY,PA,12,8
+38,Traditional,POS,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+39,Traditional,POS,7/1/2019,6/30/2019,clinical,YY,PA,47,31
+40,HMO,EPOs,1/1/2017,12/31/9999,Pharmacy,Avon,CT,83,70
+41,HMO,EPOs,6/15/2017,5/31/2019,Dental,XX,Ohio,150,45
+42,HMO,EPOs,7/1/2019,6/30/2019,clinical,YY,PA,47,31
+43,HMO,EPOs,1/1/2017,12/31/9999,Pharmacy,Avon,CT,83,70
+44,HMO,EPOs,6/15/2017,5/31/2019,Dental,XX,Ohio,150,45
+45,HMO,HMO Commercial,1/1/2017,12/31/9999,Pharmacy,Avon,CT,83,70
+46,HMO,HMO Commercial,5/31/2019,5/31/2019,clinical,YY,PA,12,8
+47,HMO,HMO Commercial,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+48,HMO,HMO Commercial,7/1/2019,12/31/9999,Dental,AA,Ohio,32,16
+49,HMO,HMO Commercial,5/31/2019,5/31/2019,clinical,YY,PA,12,8
+50,HMO,HMO Commercial,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+51,HMO,HMO Commercial,7/1/2019,12/31/9999,Dental,AA,Ohio,32,16
+52,HMO,HMO Commercial,7/1/2019,6/30/2019,clinical,YY,PA,47,31
+53,HMO,HMO Medical,1/1/2017,12/31/9999,Pharmacy,Avon,CT,83,70
+54,HMO,HMO Medical,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+55,HMO,HMO Medical,7/1/2019,12/31/9999,Dental,AA,Ohio,32,16
+56,HMO,HMO Medical,7/1/2019,6/30/2019,clinical,YY,PA,47,31
+57,Medicare,Medicare Advantage / Part C,1/1/2017,12/31/9999,Pharmacy,Avon,CT,83,70
+58,Medicare,Medicare Part A,1/1/2017,12/31/9999,Pharmacy,Avon,CT,83,70
+59,Medicare,Medicare Part A,7/1/2019,12/31/9999,Dental,AA,Ohio,32,16
+60,Medicare,Medicare Part A,7/1/2019,6/30/2019,clinical,YY,PA,47,31
+61,Medicare,Medicare Part B,1/1/2017,12/31/9999,Pharmacy,Avon,CT,83,70
+62,Medicare,Medicare Part B,6/15/2017,5/31/2019,Dental,XX,Ohio,150,45
+63,Medicare,Medicare Part B,1/31/2017,1/31/2019,clinical,YY,PA,86,120
+64,Medicare,Medicare Part B,1/1/2018,12/31/2017,Pharmacy,ZZ,TX,52,85
+65,Medicare,Medicare Part D,1/1/2017,12/31/9999,Pharmacy,Avon,CT,83,70
+66,Medicare,Medicare Part D,5/31/2019,5/31/2019,clinical,YY,PA,12,8
+67,Medicare,Medicare Part D,5/31/2019,5/30/2019,Pharmacy,Avon,CT,85,52
+68,Medicare,Medicare Part D,7/1/2019,12/31/9999,Dental,AA,Ohio,32,16
+69,Medicare,Medicare Part D,7/1/2019,6/30/2019,clinical,YY,PA,47,31
+70,Medicaid,Medicaid,1/1/2017,12/31/9999,Pharmacy,Avon,CT,83,70
+71,Medicaid,Medicaid,7/1/2019,6/30/2019,clinical,YY,PA,47,31
